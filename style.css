@@ -1,0 +1,106 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    margin-left: 1050px;
+    margin-top: 30px;
+    
+    
+  }
+  
+  li {
+    float: left;
+    color: black;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    
+    height: 450px;
+}
+section{
+    height: 500px;
+    padding-top: 50px;
+    padding-bottom: 2px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+#latest-project{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.one-third-width{
+    width:27%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+}
+
+.one-third-width img{
+    
+    height: 200px;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+}
+
+#work{
+    position: absolute;
+    top: 60px;
+    margin-left: 300px;
+    color: white;
+}
+
+.container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#chat{
+    position: absolute;
+    top: 100px;
+    margin-left: 1100px;
+    color: white;
+    padding: 20px 35px;
+}
