@@ -26,7 +26,8 @@ ul{
   }
 
 h1{
-    font-size: 50px;
+    font-size: 45px;
+    margin: 0%;
 }
 
 .orange-color{
@@ -135,4 +136,8 @@ p{
     height: 800px;
     background-color: whitesmoke;
     margin-top: 50px;
+}
+#second-img{
+    position: relative;
+    top:-70px;
 }
